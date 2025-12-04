@@ -24,7 +24,7 @@ Execute the C Program for the desired output.
 ```
 
 /*
- * sem.c - Producer-Consumer using Semaphores
+ * ex5.c - Producer-Consumer using Semaphores
  */
 #include <stdio.h>      
 #include <stdlib.h>     
@@ -125,7 +125,7 @@ int main() {
 
 
 ## OUTPUT
-$ ./sem.o 
+$ ./ex5.o 
 ![alt text](ex5.png)
 
 $ ipcs
